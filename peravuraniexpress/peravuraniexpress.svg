@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 450.017px;
+        font-family: Tamil002;
+      }
+
+      .cls-2 {
+        font-size: 230.495px;
+        font-family: TAMIL-UNI007;
+      }
+    </style>
+  </defs>
+  <text id="பேராவூரணி" class="cls-1" transform="translate(72.785 306.229) scale(0.735 0.759)">பேராவூரணி</text>
+  <text id="எக்ஸ்பிரஸ்" class="cls-2" transform="translate(1038.99 447.203) scale(0.735 0.759)">எக்ஸ்பிரஸ்</text>
+  <rect x="88" y="421" width="934" height="4"/>
+</svg>
